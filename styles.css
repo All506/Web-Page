@@ -123,7 +123,7 @@ h1.titulo span {
 }
 
 .hero {
-    background-image: url(../img/hero.jpg);
+    background-image: url(hero.jpg);
     background-repeat: no-repeat;
     /*Tomará todo el ancho disponible*/
     background-size: cover;
